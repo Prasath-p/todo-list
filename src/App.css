@@ -78,7 +78,11 @@ border-radius: 25px;
 .complete{
   text-decoration: line-through;
   opacity: 0.5;
+<<<<<<< HEAD
   background-color:rgb(10, 232, 240);
+=======
+  background-color:rgb(10, 232,240);
+>>>>>>> 74a985ee95122d4ac3e9d86166fa051b9070d7d3
 }
 
 .hide{
