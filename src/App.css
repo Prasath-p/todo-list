@@ -1,6 +1,8 @@
 *{
 font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
+
+
 .container{
 display:flex;
 justify-content: center;
@@ -9,7 +11,7 @@ width: 80rem;
 border: 3px solid black;
 min-height: 50rem;
 margin:5rem;
-background-color:khaki;
+background-color:rgb(185, 250, 89);
 border-radius: 25px;
 }
 
@@ -21,6 +23,8 @@ border-radius: 25px;
   margin-top: 3rem;
   gap: 1rem;  
 }
+
+
 .todo-form input{
   font-size: 2.5rem;
   border-radius: 1rem;
@@ -29,9 +33,6 @@ border-radius: 25px;
   
 
 }
-
-
-
 
 .todo-form button{
   border: 2px solid black;
@@ -66,22 +67,26 @@ border-radius: 25px;
   font-weight:bold;
 
 }
+
 .icons{
   display: flex;
   font-size: 3rem;
   gap:2rem;
   cursor: pointer;
 }
+
 .complete{
   text-decoration: line-through;
   opacity: 0.5;
-  background-color:chartreuse;
+  background-color:rgb(10, 232, 240);
 }
+
 .hide{
   display: none;
 }
+
 h1{
-  align-items: center;
+  
   color:black;
   font-size: 3rem;
 }

@@ -39,7 +39,7 @@ export default function TodoList(){
     }
     
      return(<div>
-            <h1>TODO LIST</h1>
+            <h1><center>TODO LIST</center></h1>
             <TodoForm addTask = {addTask}></TodoForm> 
             <TodoTask  completeTask = {completeTask} todos = {todos} removeTask = {removeTask}></TodoTask>
           </div>);
