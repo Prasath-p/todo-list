@@ -9,7 +9,7 @@ width: 80rem;
 border: 3px solid black;
 min-height: 50rem;
 margin:5rem;
-background-color:khaki;
+background-color:rgb(185,250,89);
 border-radius: 25px;
 }
 
@@ -75,7 +75,7 @@ border-radius: 25px;
 .complete{
   text-decoration: line-through;
   opacity: 0.5;
-  background-color:chartreuse;
+  background-color:rgb(10,232,240);
 }
 .hide{
   display: none;
